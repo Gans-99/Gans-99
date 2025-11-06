@@ -2,7 +2,7 @@
 
 **`Graduando em Ciência da Computação (UFC) | Análise de Requisitos | Business Intelligence e Ciência de Dados`**
 
-Sou Mahatma Gandhi Pereira Leite, graduando em Ciência da Computação pela Universidade Federal do Ceará (UFC), com experiência nas áreas de Business Intelligence, análise de requisitos, metodologias ágeis e gestão de projetos. Atuei no Laboratório de Pesquisa e Desenvolvimento em Usabilidade, Diversidade e Inclusão (LUDI) como agilista e analista de requisitos, contribuindo no desenvolvimento da ferramenta USINN Modeler. Também atuei no Business Intelligence Group (BIG), desenvolvendo dashboards e relatórios estratégicos em Power BI. Tenho experiência em monitoria acadêmica, produção de materiais didáticos e automação de processos. Atualmente, estou aprofundando conhecimentos em Ciência de Dados e Engenharia de Software, e também em idiomas (inglês e espanhol). Sou motivado pelo desejo de aplicar tecnologia e métodos ágeis na criação de soluções eficientes, inovadoras e de impacto positivo.
+Sou Mahatma Gandhi Pereira Leite, graduando em Ciência da Computação pela Universidade Federal do Ceará (UFC), com experiência nas áreas de Business Intelligence, análise de requisitos, metodologias ágeis e gestão de projetos. Atuei no Laboratório de Pesquisa e Desenvolvimento em Usabilidade, Diversidade e Inclusão (LUDI) como agilista e analista de requisitos, contribuindo no desenvolvimento da ferramenta USINN Modeler. Também atuei no Business Intelligence Group (BIG), desenvolvolvendo dashboards e relatórios estratégicos em Power BI. Tenho experiência em monitoria acadêmica, produção de materiais didáticos e automação de processos. Atualmente, aprofundando conhecimentos em Ciência de Dados e Engenharia de Software, e também em idiomas (inglês e espanhol). Sou motivado pelo desejo de aplicar tecnologia e métodos ágeis na criação de soluções eficientes, inovadoras e de impacto positivo.
 
 <p align="left">
     <a href="https://github.com/Gans-99?tab=followers">
@@ -86,7 +86,7 @@ Sou Mahatma Gandhi Pereira Leite, graduando em Ciência da Computação pela Uni
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gans-99&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Gans-99&include_all_commits=true&locale=pt-br&show_icons=true" 
   />
 
   <img 
@@ -94,6 +94,6 @@ Sou Mahatma Gandhi Pereira Leite, graduando em Ciência da Computação pela Uni
     alt="GitHub Stats" 
     height="200"
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gans-99&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=4" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gans-99&layout=compact&custom_title=Tecnologias&langs_count=4" 
   />
 </p>
